@@ -1,4 +1,4 @@
-![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-b5c8cd15d1.gif)
+[![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-b5c8cd15d1.gif)
 <h1 align="center">Hello World 👋, I'm Johnny</h1>
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif">
