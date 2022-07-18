@@ -1,4 +1,4 @@
-[![MasterHead](https://gfycat.com/cleanmeanhare)
+[![MasterHead](https://i.imgur.com/Upbzw8T.gif)
 
 <h1 align="center">Hello World 👋, I'm Johnny</h1>
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
