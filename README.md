@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Johnny<img src="https://i.gifer.com/4AIB.gif" width="50"></h1>
+<h1 align="center">Hi, I'm Johnny<img src="https://gifer.com/en/4AIB" width="55"></h1>
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
 
 
