@@ -5,7 +5,7 @@
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
 </div>
 
-## <img src="https://media.giphy.com/media/adventure-time-bmo-aLI73eIgT41b2/giphy.gif" width="70">About Me
+## <img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" width="70">About Me
 - 💻 I’m attending MSSA to become a Cloud Application Developer!
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, JS, & Azure
 
