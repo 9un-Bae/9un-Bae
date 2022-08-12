@@ -28,7 +28,7 @@
 
 &nbsp;
 
-## <img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="60">Connect With Me
+## <img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="60">Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/johnny-bae" target="blank"><img align="center" src="https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1" alt="johnny-bae" height="50" width="50" /></a>
 </p>
