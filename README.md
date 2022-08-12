@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Johnny</h1>
+<h1 align="center">Hi, I'm Johnny<img src="https://tenor.com/bOz1F.gif" width="55"</h1>
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
