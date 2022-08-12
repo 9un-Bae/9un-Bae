@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Johnny<img src="https://gifer.com/en/4AIB" width="55"></h1>
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
 
-
+<img src="https://i.gifer.com/XOsX.gif">
 
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
