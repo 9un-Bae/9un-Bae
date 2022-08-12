@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Johnny<img src="https://tenor.com/view/hello-gif-24408873" width="55"</h1>
+<h1 align="center">Hi, I'm Johnny</h1><img src="https://tenor.com/view/hello-gif-24408873" width="55"
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
-
-<div class="tenor-gif-embed" data-postid="24408873" data-share-method="host" data-aspect-ratio="0.940625" data-width="100%"><a href="https://tenor.com/view/hello-gif-24408873">Hello Sticker</a>from <a href="https://tenor.com/search/hello-stickers">Hello Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
