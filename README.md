@@ -4,12 +4,13 @@
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
 </div>
 
-## ABOUT ME
+## About Me
 - 💻 I’m attending MSSA to become a Cloud Application Developer!
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, JS, & Azure
+
 &nbsp;
 
-## TECH STACK
+## Tech Stack
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -22,8 +23,8 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-</p>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></p>
+
 &nbsp;
 
 ## Connect With Me
