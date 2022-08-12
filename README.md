@@ -2,10 +2,8 @@
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
 
 <div align="center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7019416f-58a8-4c12-8a27-1befe6971563/ddus8h9-2a482491-d0ce-4563-8c1b-b023f727ce63.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwMTk0MTZmLTU4YTgtNGMxMi04YTI3LTFiZWZlNjk3MTU2M1wvZGR1czhoOS0yYTQ4MjQ5MS1kMGNlLTQ1NjMtOGMxYi1iMDIzZjcyN2NlNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X_vZe2yKlG_lCi6ybO4x10hSAwQE-9zFp5zPPA3efik" alt="Kid Goku" width="500">
+<img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="500">
 </div>
-
-<img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif">
 
 - 💻 I’m attending MSSA to become a Cloud Application Developer!
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, JS, & Azure
