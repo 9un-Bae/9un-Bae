@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Johnny<img src="https://media.giphy.com/media/4bWGjBbhQpmQVu1Tzs/giphy.gif" width="55"></h1>
+<h1 align="center">Hi, I'm Johnny<img src="https://i.gifer.com/4AIB.gif" width="50"></h1>
 <h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
+
+
 
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
