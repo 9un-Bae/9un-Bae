@@ -3,10 +3,12 @@
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
 </div>
+
 ## ABOUT ME
 - 💻 I’m attending MSSA to become a Cloud Application Developer!
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, JS, & Azure
 &nbsp;
+
 ## TECH STACK
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -23,6 +25,7 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 &nbsp;
+
 ## Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/johnny-bae" target="blank"><img align="center" src="https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1" alt="johnny-bae" height="50" width="50" /></a>
