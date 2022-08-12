@@ -5,13 +5,13 @@
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
 </div>
 
-## <img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" width="70">About Me
+## <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" width="60">About Me
 - 💻 I’m attending MSSA to become a Cloud Application Developer!
 - 🌱 I’m currently learning C#, SQL, HTML, CSS, JS, & Azure
 
 &nbsp;
 
-## Tech Stack
+## <img src="https://media.giphy.com/media/aLI73eIgT41b2/giphy.gif" width="60">Tech Stack
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -28,7 +28,7 @@
 
 &nbsp;
 
-## Connect With Me
+## <img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="60">Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/johnny-bae" target="blank"><img align="center" src="https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1" alt="johnny-bae" height="50" width="50" /></a>
 </p>
