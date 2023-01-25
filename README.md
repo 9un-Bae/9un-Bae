@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Welcome To My Profile<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="55"></h1>
-<h3 align="center">An aspiring Software Engineer studying Computer Science and Data Science!</h3>
+<h3 align="center">An aspiring Software Engineer studying Computer Science and Data Science</h3>
 
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
