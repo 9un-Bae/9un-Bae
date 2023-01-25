@@ -1,13 +1,12 @@
 <h1 align="center">Hi, Welcome To My Profile<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="55"></h1>
-<h3 align="center">An aspiring software engineer heading for the clouds ☁️</h3>
+<h3 align="center">An aspiring Software Engineer studying Computer Science and Data Science!</h3>
 
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
 </div>
 
 ## <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" width="60">About Me
-- 💻 I’m attending MSSA to become a Cloud Application Developer!
-- 🌱 I’m currently learning C#, SQL, HTML, CSS, JS, & Azure
+🌱 I’m currently learning C#, Python, Java, SQL, JavaScript, HTML, CSS, and C++
 
 &nbsp;
 
