@@ -1,12 +1,13 @@
-<h1 align="center">Hi, Welcome To My Profile<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="55"></h1>
-<h3 align="center">An aspiring Software Engineer studying Computer Science and Data Science</h3>
+<h1 align="center">Aloha, I'm Johnny<img src="https://media.giphy.com/media/v0dGnTDFgEr68myH0C/giphy.gif" width="55"></h1>
+<h3 align="center">An aspiring software engineer in Hawaii</h3>
 
 <div align="center">
 <img src="https://thumbs.gfycat.com/BlaringFaithfulFulmar-size_restricted.gif" alt="Coding" width="300">
 </div>
 
 ## <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" width="60">About Me
-🌱 I’m currently learning C#, Python, Java, SQL, JavaScript, HTML, CSS, and C++
+- 🌱 I’m currently attending Chaminade University majoring in Computer & Data Science
+- 👨‍💻 I'm learning C#, Python, Java, SQL, JavaScript, HTML, CSS, and C++
 
 &nbsp;
 
@@ -14,6 +15,8 @@
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -23,7 +26,8 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></p>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+</p>
 
 &nbsp;
 
