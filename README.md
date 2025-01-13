@@ -6,7 +6,7 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" width="60">About Me
-- 🌱 I’m currently attending Chaminade University majoring in Computer & Data Science
+- 🌱 I’m attending Chaminade University majoring in Computer & Data Science
 - 👨‍💻 I'm learning C#, Python, SQL, JavaScript, HTML, & CSS
 
 &nbsp;
